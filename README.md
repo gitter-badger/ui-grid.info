@@ -1,5 +1,6 @@
 ui-grid.info
 ============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Alex-1984/ui-grid.info?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Website for ui-grid: http://ui-grid.info.
 
